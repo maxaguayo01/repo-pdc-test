@@ -5,4 +5,3 @@ repositorio que contiene archivos para aprender las operaciones mas comunes de g
  
  este es mi primer commit 
 
- prueba
